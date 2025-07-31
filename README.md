@@ -1,10 +1,20 @@
 ## 👋 Hello World!!
 
-<img align="right" height="135" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA1aTd6c2c3eWtxMHZlNjRvcmR1MG15cG0xbTAwb2luN2tkczI0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/quEsMOrr3hmQ8/giphy.gif" />
+<img align="right" height="135" src="./assets/minha-foto.png" />
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Meu nome é **Guilherme Izidio Nogueira**. Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender e evoluir na área da programação. Atualmente, meus estudos estão focados em **Java**, **HTML**, **CSS**, **JavaScript** e **desenvolvimento web**.
+Olá! Meu nome é **Guilherme Izidio Nogueira**. Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender e evoluir na área da programação.
+
+Atualmente estudo **Java**, **HTML**, **CSS**, **JavaScript** e **desenvolvimento web**.
+
+---
+
+## 🏎️ Paixão por Carros
+
+Sou também um entusiasta do mundo automotivo. Um dos meus maiores sonhos é ter um **Porsche 911 GT3 RS**, símbolo de performance, design e liberdade.
+
+<img src="./assets/porsche-911.png" height="180" alt="Porsche 911 GT3 RS" />
 
 ---
 
