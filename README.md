@@ -1,6 +1,6 @@
 ## 👋 Hello World!!
 
-<img align="right" height="135" src="https://www.wsupercars.com/wallpapers-regular/Porsche/2023-Porsche-911-GT3-RS-004-1080.jpg" />
+<img align="right" height="135" src=""C:\Users\guilh\OneDrive\Imagens\Saved Pictures\foto na ibm no canva.png"" />
 
 ### 👨‍💻 Sobre Mim
 
