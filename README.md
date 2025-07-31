@@ -1,6 +1,6 @@
 ## 👋 Hello World!!
 
-<img align="right" height="135" src=""[https://lh3.googleusercontent.com/a/ACg8ocLJQD22szljab4YRPjBvMYy8znrmjtl2ttD6Q4ns6E9JpBjfIyVRT6_yxO0BA-mO8cW1-OUcHaSIGAp7TMX-5RrhQzHyAam=s360-c-no](https://media.licdn.com/dms/image/v2/D4E03AQE4rFVUzmIYzA/profile-displayphoto-crop_800_800/B4EZheYrQ6HIAI-/0/1753930184299?e=1756944000&v=beta&t=ns_rTV8JTzM6BhP3XuQJQagbYkmTGHA6_EHBWqXNhEU)" />
+<img align="right" height="135" src=""foto minha com porsche canva.png" />
 
 ### 👨‍💻 Sobre Mim
 
