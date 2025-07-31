@@ -1,6 +1,6 @@
 ## 👋 Hello World!!
 
-<img align="right" height="135" src="".foto minha com porsche canva.png" />
+<img align="right" height="135" src="foto minha com porsche canva.png" />
 
 ### 👨‍💻 Sobre Mim
 
