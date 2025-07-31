@@ -1,6 +1,6 @@
 ## 👋 Hello World!!
 
-<img align="right" height="135" src=""C:\Users\guilh\OneDrive\Imagens\Saved Pictures\foto na ibm no canva.png"" />
+<img align="right" height="135" src=""C:\Users\guilh\OneDrive\Imagens\Saved Pictures\foto na ibm no canva.png" />
 
 ### 👨‍💻 Sobre Mim
 
