@@ -1,12 +1,12 @@
 👋 Olá, Mundo!!
 <img align="right" height="135" src="foto minha com porsche canva.png" />
-👨‍💻 Sobre mim
+👨‍💻 Sobre Mim
 Olá! Meu nome é Guilherme Izidio Nogueira. Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender e evoluir na área da programação.
 
-Atualmente estou estudando Java, HTML, CSS, JavaScript e desenvolvimento web.
+Atualmente estudo Java, HTML, CSS, JavaScript e desenvolvimento web.
 
-🏎️ Paixão por carros
-Também sou um entusiasta do mundo automotivo. Um dos meus maiores sonhos é ter um Porsche 911 GT3 RS, símbolo de performance, design e liberdade.
+🏎️ Paixão por Carros
+Sou também um entusiasta do mundo automotivo. Um dos meus maiores sonhos é ter um Porsche 911 GT3 RS, símbolo de performance, design e liberdade.
 
 <img src="https://www.wsupercars.com/wallpapers-regular/Porsche/2023-Porsche-911-GT3-RS-004-1080.jpg" height="180" alt="Porsche 911 GT3 RS" />
 📊 Estatísticas do GitHub
