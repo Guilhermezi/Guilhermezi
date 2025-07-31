@@ -14,7 +14,7 @@ Atualmente estudo **Java**, **HTML**, **CSS**, **JavaScript** e **desenvolviment
 
 Sou também um entusiasta do mundo automotivo. Um dos meus maiores sonhos é ter um **Porsche 911 GT3 RS**, símbolo de performance, design e liberdade.
 
-<img src="./assets/porsche-911.png" height="180" alt="Porsche 911 GT3 RS" />
+<img src="https://www.wsupercars.com/wallpapers-regular/Porsche/2023-Porsche-911-GT3-RS-004-1080.jpg" height="180" alt="Porsche 911 GT3 RS" />
 
 ---
 
