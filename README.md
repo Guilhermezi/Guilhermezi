@@ -1,6 +1,6 @@
 ## 👋 Hello World!!
 
-<img align="right" height="135" src="foto minha com porsche canva.png" />
+<img align="right" height="160" src="foto minha com porsche canva.png" alt="Minha foto com Porsche" />
 
 ### 👨‍💻 Sobre Mim
 
@@ -14,15 +14,37 @@ Atualmente estudo **Java**, **HTML**, **CSS**, **JavaScript** e **desenvolviment
 
 Sou também um entusiasta do mundo automotivo. Um dos meus maiores sonhos é ter um **Porsche 911 GT3 RS**, símbolo de performance, design e liberdade.
 
-<img src="https://www.wsupercars.com/wallpapers-regular/Porsche/2023-Porsche-911-GT3-RS-004-1080.jpg" height="180" alt="Porsche 911 GT3 RS" />
+<div align="center">
+  <img src="https://www.wsupercars.com/wallpapers-regular/Porsche/2023-Porsche-911-GT3-RS-004-1080.jpg" height="180" alt="Porsche 911 GT3 RS" />
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 GitHub em Números
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermezi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilhermezi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+
+  <!-- Gráfico de Linguagens -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermezi&layout=compact&langs_count=6&theme=blueberry&hide_border=false&card_width=320" 
+    height="150" 
+    alt="Gráfico de linguagens mais usadas" 
+  />
+
+  <!-- Estatísticas Gerais -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Guilhermezi&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide_border=false" 
+    height="150" 
+    alt="Estatísticas do GitHub" 
+  />
+
+  <!-- Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Guilhermezi&theme=blueberry&hide_border=false&locale=pt_BR" 
+    height="150" 
+    alt="Streak do GitHub" 
+  />
+
 </div>
 
 ---
