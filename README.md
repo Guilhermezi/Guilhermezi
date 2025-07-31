@@ -55,7 +55,7 @@ Sou também um entusiasta do mundo automotivo. Um dos meus maiores sonhos é ter
   <a href="https://www.linkedin.com/in/guilherme-izidio-nogueira-7ab1ab370/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" />
   </a>
-  <a href="https://discord.com/users/seuID" target="_blank">
+  <a href="https://discord.com/users/guilherme.g45" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="40" />
   </a>
   <a href="https://www.instagram.com/guilherme_izidio1/" target="_blank">
@@ -64,7 +64,7 @@ Sou também um entusiasta do mundo automotivo. Um dos meus maiores sonhos é ter
   <a href="https://api.whatsapp.com/send?phone=5511981214326" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="40" />
   </a>
-  <a href="mailto:guilhermeizidio@gmail.com" target="_blank">
+  <a href="mailto:guilherme.elinogueira@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </div>
