@@ -1,6 +1,6 @@
 ## 👋 Hello World!!
 
-<img align="right" height="135" src=""C:\Users\guilh\OneDrive\Imagens\Saved Pictures\foto na ibm no canva.png" />
+<img align="right" height="135" src=""https://lh3.googleusercontent.com/a/ACg8ocLJQD22szljab4YRPjBvMYy8znrmjtl2ttD6Q4ns6E9JpBjfIyVRT6_yxO0BA-mO8cW1-OUcHaSIGAp7TMX-5RrhQzHyAam=s360-c-no" />
 
 ### 👨‍💻 Sobre Mim
 
