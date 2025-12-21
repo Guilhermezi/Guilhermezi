@@ -51,7 +51,10 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermezi&layout=compact&langs_count=6&theme=algolia&hide_border=true&card_width=350" alt="Top Languages" /> 
 
   <!-- GitHub stats card -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Guilhermezi&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" alt="GitHub Stats" /> 
+  <img height="150"
+src="https://github-readme-stats.vercel.app/api?username=guilhermezi&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true"
+/>
+ 
 
   <!-- GitHub streak stats -->
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Guilhermezi&theme=algolia&hide_border=true" alt="GitHub Streak" /> 
