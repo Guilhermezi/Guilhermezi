@@ -48,16 +48,24 @@
 
 <div align="center">
   <!-- Top languages used on GitHub -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermezi&layout=compact&langs_count=6&theme=algolia&hide_border=true&card_width=350" alt="Top Languages" /> 
+  <img 
+  height="150"
+  src="https://github-readme-stats-flax-one-56.vercel.app/api/top-langs/?username=guilhermezi&layout=compact&langs_count=6&theme=algolia&hide_border=true&card_width=350&v=1"
+       />
 
   <!-- GitHub stats card -->
-  <img height="150"
-src="https://github-readme-stats.vercel.app/api?username=guilhermezi&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true"
-/>
+  <img 
+  height="150"
+  src="https://github-readme-stats-flax-one-56.vercel.app/api?username=guilhermezi&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&v=1"
+       />
  
 
   <!-- GitHub streak stats -->
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Guilhermezi&theme=algolia&hide_border=true" alt="GitHub Streak" /> 
+  <img 
+  height="150"
+  src="https://github-readme-streak-stats.herokuapp.com?user=guilhermezi&theme=algolia&hide_border=true&v=1"
+/>
+
 </div>
 
 <!-- =======================
