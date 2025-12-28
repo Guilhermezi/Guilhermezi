@@ -123,6 +123,10 @@
   </a> 
 </div>
 
+<br>
+
+<p align="center">
+  <em>Building strong foundations for long-term performance.</em>
   
   
     <p style="color: white; font-size: 18px; font-weight: bold; margin: 0;"> 
