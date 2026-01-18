@@ -61,9 +61,9 @@
  
 
   <!-- GitHub streak stats -->
-  <img 
+  <img
   height="150"
-  src="https://github-readme-streak-stats.herokuapp.com?user=guilhermezi&theme=algolia&hide_border=true&v=1"
+  src="https://streak-stats.demolab.com?user=guilhermezi&theme=algolia&hide_border=true"
 />
 
 </div>
