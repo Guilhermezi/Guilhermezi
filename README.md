@@ -106,7 +106,7 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,androidstudio,idea,phpstorm,vscode,figma,github,linux,notion" height="40" />
+  <img src="https://skillicons.dev/icons?i=arduino,androidstudio,idea,phpstorm,vscode,figma,github,linux,notion,docker" height="40" />
 </div>
 
 <!-- =======================
